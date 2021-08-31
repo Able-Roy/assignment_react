@@ -40,7 +40,7 @@ const Dtables = (props) => {
 
   return <div>
       <h3 style={{ textAlign: "center" }}>Data From Api </h3>
-      <table border="1px solid black" align="center">
+      <table border="1px solid black" width="100%" align="center">
           <tr>
               <td>Id</td>
               <td>Name</td>
